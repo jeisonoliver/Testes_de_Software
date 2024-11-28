@@ -41,25 +41,25 @@ Dia 9-10  | Implementação da lógica de login e testes
 
 **Riscos e Mitigação**
 
--Falhas nos testes de software: Aumentar a cobertura de testes e realizar revisões de código.
--Atraso na entrega: Priorizar as tarefas mais críticas e monitorar o progresso diariamente.
--Mudanças de requisitos: Estabelecer um canal de comunicação claro com o cliente para gerenciar as mudanças de escopo.
+- Falhas nos testes de software: Aumentar a cobertura de testes e realizar revisões de código.
+- Atraso na entrega: Priorizar as tarefas mais críticas e monitorar o progresso diariamente.
+- Mudanças de requisitos: Estabelecer um canal de comunicação claro com o cliente para gerenciar as mudanças de escopo.
 
 **Demonstração**
 Ao final da iteração, será realizada uma demonstração das funcionalidades implementadas, incluindo:
 
--Cadastro de um novo usuário.
+- Cadastro de um novo usuário.
 
--Login de um usuário cadastrado.
+- Login de um usuário cadastrado.
 
--Recuperação de senha.
+- Recuperação de senha.
 
 **Próximos Passos**
--Retrospectiva: Ao final da iteração, realizar uma reunião para avaliar o que deu certo, o que pode ser melhorado e ajustar o plano para a próxima iteração.
--Planejamento da próxima iteração: Definir as novas funcionalidades a serem implementadas e ajustar as prioridades do backlog.
+- Retrospectiva: Ao final da iteração, realizar uma reunião para avaliar o que deu certo, o que pode ser melhorado e ajustar o plano para a próxima iteração.
+- Planejamento da próxima iteração: Definir as novas funcionalidades a serem implementadas e ajustar as prioridades do backlog.
 
 **Observações:**
 
--Ferramentas: Utilizar uma ferramenta de gerenciamento de projetos ágil como Jira ou Trello para acompanhar o progresso das tarefas.
--Comunicação: Manter uma comunicação aberta e frequente com o cliente e a equipe.
--Adaptação: Estar preparado para ajustar o plano conforme necessário, considerando as mudanças no projeto e os imprevistos.
+- Ferramentas: Utilizar uma ferramenta de gerenciamento de projetos ágil como Jira ou Trello para acompanhar o progresso das tarefas.
+- Comunicação: Manter uma comunicação aberta e frequente com o cliente e a equipe.
+- Adaptação: Estar preparado para ajustar o plano conforme necessário, considerando as mudanças no projeto e os imprevistos.
