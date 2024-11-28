@@ -3,10 +3,12 @@
 **Projeto X - Sprint 1**
 
 **Objetivo da Iteração**
+
 Entregar um MVP (Produto Mínimo Viável) funcional, com as telas de cadastro e login implementadas e testadas, garantindo a segurança e usabilidade do sistema.
 
 **Itens a Serem Concluídos e Critérios de Aceitação**
-*Tela de Cadastro:*
+
+**Tela de Cadastro:**
 - Campos obrigatórios: nome, email, senha e confirmação de senha.
 - Validação de email (formato e existência).
 - Criptografia da senha.
