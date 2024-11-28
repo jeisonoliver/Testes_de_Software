@@ -25,26 +25,18 @@ Entregar um MVP (Produto Mínimo Viável) funcional, com as telas de cadastro e 
 Tarefa  | Estimativa (horas)  | Responsável
 -----------|--------|----------------
 Desenvolver tela de cadastro | 16 | Desenvolvedor
------------|--------|----------------
 Implementar lógica de cadastro  | 12  | Desenvolvedor
------------|--------|----------------
 Desenvolver tela de login  | 12  | Desenvolvedor
------------|--------|----------------
 Implementar lógica de login  | 12  | Desenvolvedor
------------|--------|----------------
 Escrever testes unitários  | 8  | Desenvolvedor
------------|--------|----------------
 Escrever testes de integração  | 8  | Desenvolvedor
 
 **Cronograma**
 Data  | Tarefa
 -----------|--------
 Dia 1-3  | Design e desenvolvimento da tela de cadastro
------------|--------
 Dia 4-5  | Implementação da lógica de cadastro e testes
------------|--------
 Dia 6-8  | Design e desenvolvimento da tela de login
------------|--------
 Dia 9-10  | Implementação da lógica de login e testes
 
 **Riscos e Mitigação**
