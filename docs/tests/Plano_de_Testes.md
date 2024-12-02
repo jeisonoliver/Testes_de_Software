@@ -44,7 +44,7 @@ Se possível usar teste automatizado.
             Objetivo
         </th>
         <th colspan="4">
-            descreva aqui o objetivo
+            verificar se cada classe retorna o esperado.
         </th>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ Se possível usar teste automatizado.
             Técnica:
         </th>
         <th colspan="2">
-            (x) manual
+            () manual
         </th>
         <th colspan="2">
             (x) automática
@@ -80,10 +80,10 @@ Se possível usar teste automatizado.
             Abordagem do teste
         </th>
         <th colspan="2">
-            Caixa branca (x)
+            Caixa branca ()
         </th>
         <th colspan="2">
-            Caixa preta (x)
+            Caixa preta ()
         </th>
     </tr>
     <tr>
