@@ -50,9 +50,10 @@ A ausência de vulnerabilidades mostra que o código está bem protegido contra 
 
 ![Resultado da Execução Sonar](1.png)
 
-
-
-![Gráfico do Total de Linhas de código em relação ao total de cobertura](duplicação.jpeg)
-
+![Gráfico do Total de Linhas de código em relação ao total de cobertura](novocodigo+cobertura.jpeg)
 
 ![Gráfico de Cobertura de Código](graficodecobertura.jpeg)
+
+![Gráfico de Cobertura de Código](duplicação.jpeg)
+
+![Gráfico de Cobertura de Código](bugs.jpeg)
