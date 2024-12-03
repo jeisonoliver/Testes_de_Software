@@ -4,10 +4,10 @@
 
 **Tarefa 01:**
 
-- [T01](docs/tests/Plano_de_Testes.md)
-- [T01](docs/tests/Plano_de_Iteração.md)
-- [T01](docs/tests/estado_atual.md)
+- [T01 - Plano de Testes](docs/tests/Plano_de_Testes.md)
+- [T01 - Plano de Iteração](docs/tests/Plano_de_Iteração.md)
+- [T01 - Estado Atual](docs/tests/estado_atual.md)
 
 **Tarefa 02:**
 
-- [T02](docs/tests/execução_dos_testes.md)
+- [T02 - Execução dos Testes + Sonar](docs/tests/execução_dos_testes.md)
