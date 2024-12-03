@@ -1,10 +1,10 @@
 # Plano de Iteração
 
-**Projeto X - Sprint 1**
+**Baobah - Sprint 1**
 
 **Objetivo da Iteração**
 
-Entregar um MVP (Produto Mínimo Viável) funcional, com as telas de cadastro e login implementadas e testadas, garantindo a segurança e usabilidade do sistema.
+Entregar um Sistema funcional e testado.
 
 **Itens a Serem Concluídos e Critérios de Aceitação**
 
